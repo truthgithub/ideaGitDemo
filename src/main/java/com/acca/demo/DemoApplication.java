@@ -10,6 +10,7 @@ public class DemoApplication {
 		System.out.println("git for master code change");
 		System.out.println("git for hot-fix code change");
 		System.out.println("git for hot-fix code change2");
+		System.out.println("git for website code change");
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
